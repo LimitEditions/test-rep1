@@ -3,3 +3,4 @@
 Hello local PC
 cd
 conflict branch
+Line conflict
