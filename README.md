@@ -2,3 +2,4 @@
 тестовый текст
 Hello local PC
 cd
+conflict branch
